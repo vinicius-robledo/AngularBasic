@@ -14,7 +14,7 @@ import { AdsenseModule } from 'ng2-adsense';
     BrowserModule,
     AppRoutingModule,
     AdsenseModule.forRoot({
-      adClient: 'ca-pub-7640562161899788',
+      adClient: 'ca-pub-5013061457565520',
       adSlot: 7259870550})
     
   ],
